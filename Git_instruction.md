@@ -137,7 +137,6 @@ git remote add апрапрапраorigin https://github.com/Chernyimisha/Git_in
 git branch -M main
 git push -u origiапрапрапрn main
 ```
-## 13.2. Получение ```(pull)``` актуального состояниапрапрапрапря удаленного репозитория и  внесение ```(push)``` изменений в него.
 
 
    
